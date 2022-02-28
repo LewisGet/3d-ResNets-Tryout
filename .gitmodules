@@ -1,0 +1,3 @@
+[submodule "resnet3d"]
+	path = resnet3d
+	url = git@github.com:LewisGet/3D-ResNets-PyTorch.git
